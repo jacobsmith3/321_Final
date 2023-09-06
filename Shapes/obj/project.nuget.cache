@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5hPxqxzoCCIy50q2PE2/FHEV2QW97yJVSwWOzcx1FpxM5HNz/K2QSRVCAsU+YXrZm103KV41GBWd1irQ9kV5BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jacob\\OneDrive\\Desktop\\cpts321-in-class-exercises\\Final\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jacob\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
